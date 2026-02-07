@@ -35,6 +35,13 @@ using a menu-driven console interface. All data is stored in-memory using collec
 
 ---
 
+## Class Diagram
+
+The following diagram shows the core class relationships in the LearnTrack system:
+<img width="1536" height="1024" alt="ChatGPT Image Feb 7, 2026, 09_16_55 PM" src="https://github.com/user-attachments/assets/de386007-49a4-44c4-b02e-017e815b9fc4" />
+
+
+
 ## How to Compile and Run
 
 From the project root directory:
